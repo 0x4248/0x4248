@@ -1,8 +1,9 @@
 # Welcome to my github page
-## [Join my discord please](https://discord.gg/ktePfSNFWN)
- <img src="https://activity-graph.herokuapp.com/graph?username=awesomelewis2007&theme=react-dark&area=true&hide_border=true" width="100%">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomelewis2007&layout=compact&theme=radical&langs_count=10&hide=css,makefile,shell,batchfile,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[Icons used on my repositories](https://icons8.com/)
+## Where are your repos Lewis?
+Dont worry they have just moved to an orginasation called [Proactive Development](https://github.com/Proactive-Development)
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=awesomelewis2007&theme=react-dark&area=true&hide_border=true" width="100%">
+
 
