@@ -15,7 +15,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - public_repo
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
@@ -26,7 +25,14 @@ jobs:
           user: awesomelewis2007
           template: classic
           base: header, activity, community, repositories, metadata
+          config_octicon: yes
           config_timezone: Europe/London
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -44,6 +50,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_projects: yes
-          plugin_projects_limit: 4
           repositories_forks: yes
+          repositories_skipped: linux, ish
