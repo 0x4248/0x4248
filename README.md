@@ -7,3 +7,4 @@ Dont worry they have just moved to an orginasation called [Proactive Development
 <img src="https://activity-graph.herokuapp.com/graph?username=awesomelewis2007&theme=react-dark&area=true&hide_border=true" width="100%">
 
 
+![Metrics](/github-metrics.svg)
