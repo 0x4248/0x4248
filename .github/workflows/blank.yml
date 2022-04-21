@@ -51,4 +51,4 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           repositories_forks: yes
-          repositories_skipped: linux, ish
+          repositories_skipped: linux, ish, OS
