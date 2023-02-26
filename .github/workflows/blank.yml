@@ -48,4 +48,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          repositories_forks: yes
+          repositories_forks: no
