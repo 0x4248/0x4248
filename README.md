@@ -1,5 +1,5 @@
 # Welcome to my github page
-Hi my name is Lewis, I am a developer who is interested in many different areas of technology. I also enjoy learning about cyber security and how to protect myself and others from cyber attacks. Many of the projects here are personal projects and prjects for my systems.
+Hi my name is Lewis, I am a developer who is interested in many different areas of technology. I also enjoy learning about cyber security. Many of the projects here are personal projects and projects for my systems.
 
 ![Metrics](https://raw.githubusercontent.com/awesomelewis2007/awesomelewis2007/master/github-metrics.svg)
 
