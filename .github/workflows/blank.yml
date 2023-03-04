@@ -46,7 +46,6 @@ jobs:
           plugin_languages_skipped: Ish, linux, builtins
           plugin_languages_threshold: 0%
           plugin_notable: yes
-          plugin_lines: yes
           plugin_notable_from: all
           plugin_notable_types: commit
           repositories_forks: no
