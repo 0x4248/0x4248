@@ -5,7 +5,7 @@ Hi my name is Lewis, I am a developer who is interested in many different areas 
 
 ## Languages I know
 ![Languages](https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,cs,dotnet,bash,css,html,flask)
-## Development tools and software i use
+## Development tools and software I use
 ![Dev_tools](https://skillicons.dev/icons?i=git,docker,github,googlecloud,vscode,visualstudio,raspberrypi,linux,powershell,replit)
 ## Other tools and software
 ![Tools](https://skillicons.dev/icons?i=blender,ps,pr,ai,xd,figma)
