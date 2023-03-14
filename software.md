@@ -67,7 +67,8 @@ Here is a list of software I use on a daily basis.
 
 - Github mobile [Link](https://apps.apple.com/us/app/github/id1477376905)
 - Ish [Link](https://ish.app/)
-- Termius [Link](https://apps.apple.com/us/app/termius-ssh-client/id549039908)q
+- Termius [Link](https://apps.apple.com/us/app/termius-ssh-client/id549039908)
+- Blink Shell [Link](https://apps.apple.com/app/id1594898306)
 - Safari [Link](https://www.apple.com/safari/)
 - Notion [Link](https://www.notion.so/)
 - Working Copy [Link](https://apps.apple.com/us/app/working-copy-git-client/id896694807)
