@@ -6,7 +6,7 @@ Check out the [software](https://github.com/awesomelewis2007/awesomelewis2007/bl
 ![Metrics](https://raw.githubusercontent.com/awesomelewis2007/awesomelewis2007/master/github-metrics.svg)
 
 ## Languages I know
-![Languages](https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,cs,dotnet,bash,css,html,flask)
+![Languages](https://skillicons.dev/icons?i=python,cpp,cs,c,javascript,nodejs,dotnet,bash,css,html,rust)
 ## Development tools and software I use
 ![Dev_tools](https://skillicons.dev/icons?i=git,docker,github,googlecloud,vscode,visualstudio,raspberrypi,linux,powershell,replit)
 ## Other tools and software
