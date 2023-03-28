@@ -35,6 +35,7 @@ Here is a list of software I use on a daily basis.
 ### Compilers
 
 - GCC [Link](https://gcc.gnu.org/)
+- Binutils [Link](https://www.gnu.org/software/binutils/)
 - Microsoft C/C++ Compiler (CL) [Link](https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options?view=msvc-170)
 - NASM [Link](https://www.nasm.us/)
 
