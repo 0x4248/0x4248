@@ -30,6 +30,7 @@ Here is a list of software I use on a daily basis.
 - Makefile [Link](https://en.wikipedia.org/wiki/Makefile)
 - Shell [Link](https://en.wikipedia.org/wiki/Shell_script)
 - Bash [Link](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- Rust [Link](https://www.rust-lang.org/)
 
 ### Compilers
 
@@ -44,6 +45,7 @@ Here is a list of software I use on a daily basis.
 - Fish [Link](https://fishshell.com/)
 - Bash [Link](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - GNU Make [Link](https://www.gnu.org/software/make/)
+- Nano [Link](https://www.nano-editor.org/)
 
 ## Windows Programs
 
