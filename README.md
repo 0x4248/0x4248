@@ -6,6 +6,16 @@ Check out the [software](https://github.com/awesomelewis2007/awesomelewis2007/bl
 ![Metrics](https://raw.githubusercontent.com/awesomelewis2007/awesomelewis2007/master/github-metrics.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+C++              3 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+C                3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Makefile         1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Markdown         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Python           55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Docker           55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Languages I know
