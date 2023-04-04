@@ -3,7 +3,16 @@ Hi my name is Lewis, I am a developer who is interested in many different areas 
 
 Check out the [software](https://github.com/awesomelewis2007/awesomelewis2007/blob/master/software.md) I use.
 
+## More stats
+<details close>
+<summary>Advanced github stats</summary>
+<br>
 ![Metrics](https://raw.githubusercontent.com/awesomelewis2007/awesomelewis2007/master/github-metrics.svg)
+</details>
+
+<details close>
+<summary>Wakatime stats</summary>
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -17,10 +26,11 @@ Other            46 mins         █▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</details>
 
-## Languages I know
+### Languages I know
 ![Languages](https://skillicons.dev/icons?i=python,cpp,cs,c,javascript,nodejs,dotnet,bash,css,html,rust)
-## Development tools and software I use
+### Development tools and software I use
 ![Dev_tools](https://skillicons.dev/icons?i=git,docker,github,googlecloud,vscode,visualstudio,raspberrypi,linux,powershell,replit)
-## Other tools and software
+### Other tools and software
 ![Tools](https://skillicons.dev/icons?i=blender,ps,pr,ai,xd,figma)
