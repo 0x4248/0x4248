@@ -3,11 +3,21 @@ Hi my name is Lewis, I am a developer who is interested in many different areas 
 
 Check out the [software](https://github.com/awesomelewis2007/awesomelewis2007/blob/master/software.md) I use.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomelewis2007&hide=html,css&langs_count=10&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomelewis2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Awesomelewis2007&theme=transparent)](https://git.io/streak-stats)
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=awesomelewis2007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=awesomelewis2007&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## More stats
 <details close>
 <summary>Advanced github stats</summary>
 <br>
+  
 ![Metrics](https://raw.githubusercontent.com/awesomelewis2007/awesomelewis2007/master/github-metrics.svg)
+  
 </details>
 
 <details close>
