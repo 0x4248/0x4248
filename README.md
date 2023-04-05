@@ -27,12 +27,13 @@ Check out the [software](https://github.com/awesomelewis2007/awesomelewis2007/bl
 <!--START_SECTION:waka-->
 
 ```text
-C                3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-Makefile         2 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-C++              1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Markdown         1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Python           1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Other            46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+C                3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Makefile         3 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Markdown         1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+C++              1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Python           1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Assembly         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Other            49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
