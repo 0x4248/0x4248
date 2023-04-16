@@ -1,7 +1,9 @@
 # Welcome to my github page
-Hi my name is Lewis, I am a developer who is interested in many different areas of technology. I also enjoy learning about cyber security. Many of the projects here are personal projects and projects for my systems.
+Hi, my name is Lewis and I am passionate about programming and cyber security. I love exploring the endless possibilities that coding has to offer and finding creative solutions to complex problems. On my page, you'll find some of my personal projects and contributions to open-source software. Most of my projects are just for fun and for my own systems.
 
-Check out the list of [software](https://github.com/awesomelewis2007/awesomelewis2007/blob/master/software.md) I use.
+Check out the list of [software](https://github.com/awesomelewis2007/awesomelewis2007/blob/master/software.md) and my [dotfiles](https://github.com/awesomelewis2007/dotfiles).
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomelewis2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=compact&theme=transparent&exclude_repo=GPT-code-repository)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomelewis2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
