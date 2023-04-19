@@ -31,15 +31,11 @@ Check out the list of [software](https://github.com/awesomelewis2007/awesomelewi
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      6 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Text          3 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Rust          3 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Python        2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-C             1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Docker        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-CSV           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Other         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Markdown      6 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
+C             2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Python        2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Rust          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Other         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
