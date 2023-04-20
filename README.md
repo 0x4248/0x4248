@@ -31,11 +31,11 @@ Check out the list of [software](https://github.com/awesomelewis2007/awesomelewi
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      6 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
-C             2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Python        2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Rust          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Other         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Markdown      5 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+Python        3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+C             2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Rust          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Other         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
