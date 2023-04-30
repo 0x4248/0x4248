@@ -31,13 +31,12 @@ Check out the list of [software](https://github.com/awesomelewis2007/awesomelewi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-HTML         1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Markdown     1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Python       1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-CSS          53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-JSON         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+JavaScript   3 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.26 %
+HTML         1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Markdown     51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+CSS          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+YAML         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Other        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
