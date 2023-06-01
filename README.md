@@ -11,7 +11,7 @@ Check out the list of [software](https://github.com/awesomelewis2007/awesomelewi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awesomelewis2007&theme=transparent)](https://git.io/streak-stats)
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=awesomelewis2007&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awesomelewis2007&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=awesomelewis2007&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
