@@ -7,9 +7,8 @@ If you want to read more about me, check out my [website](https://lewisevans2007
 
 Check out the list of [software](https://github.com/lewisevans2007/lewisevans2007/blob/master/software.md) and my [dotfiles](https://github.com/lewisevans2007/dotfiles).
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisevans2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=donut&theme=transparent&exclude_repo=GPT-code-repository)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisevans2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisevans2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=donut&theme=transparent&exclude_repo=GPT-code-repository)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisevans2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awesomelewis2007&theme=transparent)](https://git.io/streak-stats)
 
