@@ -82,3 +82,4 @@ Here is a list of software I use on a daily basis.
 - Youtube [Link](https://apps.apple.com/us/app/youtube/id544007664)
 - Spotify [Link](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)
 - Speedtest [Link](https://apps.apple.com/us/app/speedtest-by-ookla/id300704847)
+- Go Map!! [Link](https://apps.apple.com/us/app/go-map/id592990211)
