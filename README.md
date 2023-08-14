@@ -12,7 +12,7 @@ Check out the list of [software](https://github.com/lewisevans2007/lewisevans200
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisevans2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=donut&theme=transparent&exclude_repo=GPT-code-repository,Obsidian_vault)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisevans2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Awesomelewis2007&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lewisevans2007&theme=transparent)](https://git.io/streak-stats)
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewisevans2007&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
