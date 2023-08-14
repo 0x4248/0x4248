@@ -1,7 +1,7 @@
 # Welcome to my github page
 
 > **Note**
-> Wondering where @awesomelewis2007 went? This is my new username @lewisevans2007
+> Wondering where @awesomelewis2007 went? I have changed my username to @lewisevans2007
 
 Hi, my name is Lewis and I am passionate about programming and cyber security. I love exploring the endless possibilities that coding has to offer. On my page, you'll find some of my personal projects and contributions to open-source software. Most of my projects are just for fun and for my own systems.
 
