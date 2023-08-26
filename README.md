@@ -34,14 +34,16 @@ Check out the list of [software](https://github.com/lewisevans2007/lewisevans200
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         8 mins          █████████▓░░░░░░░░░░░░░░░   38.37 %
-JavaScript       7 mins          ████████░░░░░░░░░░░░░░░░░   32.17 %
-SQL              3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Rust             3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python           27 mins         ████████████▒░░░░░░░░░░░░   49.00 %
+Markdown         13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+JavaScript       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+SQL              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Rust             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
