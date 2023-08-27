@@ -66,6 +66,7 @@ Here is a list of software I use on a daily basis.
 - Adobe After Effects [Link](https://www.adobe.com/products/aftereffects.html)
 - Adobe Premiere [Link](https://www.adobe.com/products/premiere.html)
 - Adobe Illustrator [Link](https://www.adobe.com/products/illustrator.html)
+- Obsidian [Link](https://Obsidian.md)
 
 ## IOS/IpadOS Programs
 
