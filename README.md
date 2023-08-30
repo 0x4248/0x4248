@@ -5,7 +5,7 @@
 
 Hi, my name is Lewis and I am passionate about programming and cyber security. I love exploring the endless possibilities that coding has to offer. On my page, you'll find some of my personal projects and contributions to open-source software. Most of my projects are just for fun and for my own systems.
 
-If you want to read more about me, check out my [website](https://lewisevans2007.github.io/).
+If you want to read more about me, please check out my [website](https://lewisevans2007.github.io/).
 
 Check out the list of [software](https://github.com/lewisevans2007/lewisevans2007/blob/master/software.md) and my [dotfiles](https://github.com/lewisevans2007/dotfiles).
 
