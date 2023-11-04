@@ -34,8 +34,9 @@ Check out the list of [software](https://github.com/lewisevans2007/lewisevans200
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   34 mins         ████████████████████████▓   98.37 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown   34 mins         ████████████████░░░░░░░░░   64.53 %
+Other      18 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
