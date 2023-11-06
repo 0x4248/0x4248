@@ -34,11 +34,11 @@ Check out the list of [software](https://github.com/lewisevans2007/lewisevans200
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 50 mins   █████████████████▒░░░░░░░   69.17 %
-Markdown     53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-Other        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python       3 hrs 28 mins   ██████████████████▓░░░░░░   74.61 %
+Markdown     49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Other        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
