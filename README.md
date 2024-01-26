@@ -9,7 +9,7 @@ If you want to read more about me, please check out my [website](https://lewisev
 
 Check out the list of [software](https://github.com/lewisevans2007/lewisevans2007/blob/master/software.md) and my [dotfiles](https://github.com/lewisevans2007/dotfiles).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisevans2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=donut&theme=transparent&exclude_repo=GPT-code-repository,Obsidian_vault,Apple-PowerManagement,Apple-Security,CMake,qemu,swift,tcpdump,xnu)(https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisevans2007&hide=html,css,jupyter%20notebook&langs_count=10&layout=donut&theme=transparent&exclude_repo=GPT-code-repository,Obsidian_vault,Apple-PowerManagement,Apple-Security,CMake,qemu,swift,tcpdump,xnu)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisevans2007&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lewisevans2007&theme=transparent)](https://git.io/streak-stats)
@@ -34,15 +34,21 @@ Check out the list of [software](https://github.com/lewisevans2007/lewisevans200
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 49 mins    ███████████████▓░░░░░░░░░   63.06 %
-Markdown     51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-Python       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C                  4 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+Markdown           1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+HTML               1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Rust               1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+C++                1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Makefile           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Kconfig            51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Python             48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Bash               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Other              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Assembly           41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Docker             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Objective-C        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+YAML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
