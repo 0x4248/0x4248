@@ -6,5 +6,7 @@ Welcome to my github page! On this page you will find a collection of projects t
 
 I know its allot. 
 
+**Note**: Wakatime stats are not accurate since I have used other editors that dont have wakatime installed.
+
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=0x4248&layout=compact&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4248&hide=html,css,jupyter%20notebook&langs_count=40&layout=donut&theme=transparent)
