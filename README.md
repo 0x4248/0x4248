@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">0x4248</h1>
+# 0x4248
 
 Welcome to my github page! On this page you will find a collection of projects that I have worked on. Most of my projects are fun projects that I have made.
 
