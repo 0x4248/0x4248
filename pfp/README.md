@@ -14,10 +14,10 @@ You can see here is one of the sketches I made before turning it into a profile 
 
 ## Profile pictures
 
-<img src="furry/pfp.png" width="200" alt="Furry"/>
-<img src="furry/pfp_min_gray.png" width="200" alt="Furry Gray"/>
-<img src="drk/pfp.png" width="200" alt="Dr. K"/>
-<img src="puro/pfp.png" width="200" alt="Puro"/>
+<img src="furry/pfp.png" width="200" alt="Furry" style="display: inline;"/>
+<img src="furry/pfp_min_gray.png" width="200" alt="Furry Gray" style="display: inline;"/>
+<img src="drk/pfp.png" width="200" alt="Dr. K" style="display: inline;"/>
+<img src="puro/pfp.png" width="200" alt="Puro" style="display: inline;"/>
 
 ## License
 
