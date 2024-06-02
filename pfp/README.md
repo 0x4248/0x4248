@@ -6,18 +6,29 @@ Here is where where you will find some of the profile pictures I use.
 
 I use procreate on my iPad to draw my profile pictures and any SVG files are done using Inkscape.
 
-<img src="furry/sketch.png" width="200" alt="Sketch"/>
+<img src="blix/sketch.png" width="200" alt="Sketch"/>
 
 You can see here is one of the sketches I made before turning it into a profile picture.
 
-<img src="furry/pfp.png" width="200" alt="Final"/>
+<img src="blix/pfp.png" width="200" alt="Final"/>
 
 ## Profile pictures
 
-<img src="furry/pfp.png" width="200" alt="Furry" style="display: inline;"/>
-<img src="furry/pfp_min_gray.png" width="200" alt="Furry Gray" style="display: inline;"/>
+### Blix
+<img src="blix/pfp.png" width="200" alt="Blix" style="display: inline;"/>
+<img src="blix/sketch.png" width="200" alt="Blix Gray" style="display: inline;"/>
+
+### Dr. K
 <img src="drk/pfp.png" width="200" alt="Dr. K" style="display: inline;"/>
+
+### Puro
 <img src="puro/pfp.png" width="200" alt="Puro" style="display: inline;"/>
+
+### Silly Fox
+Old profile picture.
+<img src="silly_fox/pfp.png" width="200" alt="Furry" style="display: inline;"/>
+<img src="silly_fox/pfp_min_gray.png" width="200" alt="Furry Gray" style="display: inline;"/>
+
 
 ## License
 
