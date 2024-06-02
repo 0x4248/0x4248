@@ -25,7 +25,8 @@ You can see here is one of the sketches I made before turning it into a profile 
 <img src="puro/pfp.png" width="200" alt="Puro" style="display: inline;"/>
 
 ### Silly Fox
-Old profile picture.
+Old profile picture. Blix was based on this character.
+
 <img src="silly_fox/pfp.png" width="200" alt="Furry" style="display: inline;"/>
 <img src="silly_fox/pfp_min_gray.png" width="200" alt="Furry Gray" style="display: inline;"/>
 
