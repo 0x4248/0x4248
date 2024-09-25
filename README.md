@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0x4248</h1>
-
+<img src="https://github.com/0x4248/0x4248/blob/master/pfp/Banner.png" style="margin:auto">
 Welcome to my github page! On this page you will find a collection of projects that I have worked on. Most of my projects are fun projects and experiments that I have made. 90% of all my projects are open source and public on GitHub so feel free to look at them [more about open source](docs/opensource.md).
 
 ## Stats
