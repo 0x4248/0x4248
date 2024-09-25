@@ -22,6 +22,12 @@ I know the stats are pretty high.
     <img src="https://github-readme-stats.vercel.app/api?username=0x4248&show_icons=true&theme=transparent">
 </details>
 
+<details>
+  <summary>My shocking streak</summary>
+    <p>I should go touch grass</p>
+    <img src="https://streak-stats.demolab.com?user=0x4248&theme=transparent">
+</details>
+
 ## Languages I mainly program in
 I started programming in python when I was 12 and still use it to this day. Over the course of my programming journey I have learned many other languages.
 
