@@ -31,3 +31,4 @@ I started programming in python when I was 12 and still use it to this day. Over
 - Rust
 - Java
 - JavaScript
+- ~~HTML/CSS~~ (Not a language)
