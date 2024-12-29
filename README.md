@@ -14,7 +14,7 @@
 
 ## Stats
 
-I know the stats are pretty high.
+Click a dropdown to see its content.
 
 <details>
   <summary>Wakatime</summary>
