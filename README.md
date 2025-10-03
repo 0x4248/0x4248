@@ -12,6 +12,9 @@
 
 </div>
 
+>[!warning]
+> I am in the works of cleaning up my github. Most of my projects are abandonware and there are hundreds of github repos with barely any content. Which is why I am moving scripts and other junk (Yeah I call it that over to my [scraps repo](https://github.com/0x4248/scraps). Some other files like binary files are being put in my JunkDrawer [here](https://github.com/0x4248/junkdrawer).
+
 ## Stats
 
 Click a dropdown to see its content.
@@ -61,3 +64,4 @@ If you want to support me you can donate to my wallet.
 ```
 
 [See this wallet on blockchain.io](https://www.blockchain.com/explorer/addresses/eth/0x62B06d1e75D2e2Bde0A03DDf6FC4916E337A6288)
+
