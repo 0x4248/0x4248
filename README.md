@@ -9,7 +9,7 @@ This is where I keep a mix of projects, experiments, and random ideas I’ve tur
 Here’s where most of my stuff lives:
 
 * **[Notebook](https://n.0x4248.dev)** – My Obsidian notes and research.
-* **[Scraps](https://github.com/0x4248/Scraps)** – Code experiments, scripts and small projects
+* **[Scrapbook](https://github.com/0x4248/Scrapbook)** – Code experiments, scripts and small projects
 * **[JunkDrawer](https://github.com/0x4248/JunkDrawer)** – Everything else: binaries, CSVs, images, videos, and other files.
 
 ---
@@ -36,3 +36,4 @@ I also play arround with old languages and systems such as:
 * [Main website](https://0x4248.dev)
 * [My own UNIX like manual](https://m.0x4248.dev)
 * [OSM](https://www.openstreetmap.org/user/0x4248)
+
