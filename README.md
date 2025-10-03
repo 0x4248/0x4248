@@ -1,27 +1,38 @@
-<div style="display: flex;">
+# Heya, Welcome to my GitHub!
 
-  <div style="flex: 30%;">
-    <img src="https://0x4248.dev/logo.svg" width="200px" style="margin:auto;">
+This is where I keep a mix of projects, experiments, and random ideas I’ve turned into code. I like to tinker with both **hardware and software**, and most of my experiments revolve around **Linux** setups, scripting, and general nerdy fun.
 
-  </div>
+---
 
-  <div style="flex: 70%; padding-left: 20px;">
-    <p>Welcome to my github page! On this page you will find a collection of projects that I have worked on. Most of my projects are fun projects and experiments that I have made. 90% of all my 
-  projects are open source and public on GitHub so feel free to look at them.<p>
-  </div>
+## 📂 My Main Repos
 
-</div>
+Here’s where most of my stuff lives:
 
->[!warning]
-> I am in the works of cleaning up my github. Most of my projects are abandonware and there are hundreds of github repos with barely any content. Which is why I am moving scripts and other junk (Yeah I call it that over to my [scraps repo](https://github.com/0x4248/scraps). Some other files like binary files are being put in my JunkDrawer [here](https://github.com/0x4248/junkdrawer).
+* **[Notebook](https://n.0x4248.dev)** – My Obsidian notes and research.
+* **[Scraps](https://github.com/0x4248/Scraps)** – Code experiments, scripts and small projects
+* **[JunkDrawer](https://github.com/0x4248/JunkDrawer)** – Everything else: binaries, CSVs, images, videos, and other files.
 
-## Languages I mainly program in
+---
 
-I started programming in python when I was 12 and still use it to this day. Over the course of my programming journey I have learned many other languages.
+## 🛠️ Languages & Tools
 
--   Python
--   C/C++
--   Java
--   JavaScript
--   ~~HTML/CSS~~ (Not a language)
+I started programming in **Python** when I was 12, and it’s still one of my go-tos. Over time, I’ve also worked with:
 
+* Python
+* C / C++
+* Java
+* JavaScript
+* ~~HTML / CSS~~ (Not languages)
+
+I also play arround with old languages and systems such as:
+
+* DOS
+* Fortran
+* C64/128
+* Really old UNIX systems
+
+## Other quick links
+
+* [Main website](https://0x4248.dev)
+* [My own UNIX like manual](https://m.0x4248.dev)
+* [OSM](https://www.openstreetmap.org/user/0x4248)
